@@ -5,3 +5,4 @@ openpyxl
 faker
 python-dateutil
 openai
+plotly
